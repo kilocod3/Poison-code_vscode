@@ -2,8 +2,12 @@
   "name": "poison-code-theme",
   "displayName": "Poison Code",
   "description": "Poison Code Theme",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "publisher": "kilocod3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kilocod3/poison-code-theme"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
