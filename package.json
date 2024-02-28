@@ -1,0 +1,25 @@
+{
+  "name": "poison-code-theme",
+  "displayName": "Poison Code",
+  "description": "Poison Code Theme",
+  "version": "0.0.1",
+  "publisher": "kilocod3",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Poison Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Poison-code-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.24.0"
+  }
+}
