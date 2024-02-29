@@ -6,7 +6,7 @@
   "publisher": "kilocod3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kilocod3/Poison-code_vscode"
+    "url": "https://github.com/kilocod3/poison-code-theme"
   },
   "engines": {
     "vscode": "^1.86.0"
