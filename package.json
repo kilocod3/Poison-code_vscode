@@ -2,11 +2,11 @@
   "name": "poison-code-theme",
   "displayName": "Poison Code",
   "description": "Poison Code Theme",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "kilocod3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kilocod3/poison-code-theme"
+    "url": "https://github.com/kilocod3/Poison-code_vscode"
   },
   "engines": {
     "vscode": "^1.86.0"
@@ -25,5 +25,16 @@
   },
   "dependencies": {
     "@vscode/vsce": "^2.24.0"
-  }
+  },
+  "keywords": [
+    "poison",
+    "dark",
+    "theme",
+    "color-theme"
+],
+"icon": "icon.png",
+    "galleryBanner": {
+        "color": "#448d84",
+        "theme": "dark"
+    }
 }
