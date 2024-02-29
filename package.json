@@ -2,7 +2,7 @@
   "name": "poison-code-theme",
   "displayName": "Poison Code",
   "description": "Poison Code Theme",
-  "version": "0.1.2",
+  "version": "0.0.1",
   "publisher": "kilocod3",
   "repository": {
     "type": "git",
@@ -31,10 +31,10 @@
     "dark",
     "theme",
     "color-theme"
-],
-"icon": "icon.png",
+  ],
+  "icon": "icon.png",
     "galleryBanner": {
         "color": "#448d84",
         "theme": "dark"
-    }
+  }
 }
