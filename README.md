@@ -1,5 +1,16 @@
-# poison-code-theme README
+# Poison code [Visual Studio Code](http://code.visualstudio.com)
+
+> A dark theme for lovers of the old style [Visual Studio Code](http://code.visualstudio.com).
+
+![Screenshot](screenshot.png)
+
+## Community
+
+* [GitHub](https://github.com/kilocod3/poison-code-theme) - Best for asking questions and discussing issues.
+
+# Poison code
 Poison code: The theme is decorated in the style of python
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:

@@ -44,23 +44,23 @@
 		"editor.selectionHighlightBorder": "#434343",
 		"editor.wordHighlightBackground": "#434343",
 		"editor.findMatchBackground": "#994a4a",
-		"editor.findMatchHighlightBackground": "#efefef",
+		"editor.findMatchHighlightBackground": "#4747479c",
 		"editor.hoverHighlightBackground": "#484848",
 		"editorWhitespace.foreground": "#292929",
-		"editor.lineHighlightBorder": "#2f3130",
+		"editor.lineHighlightBorder": "#242427",
 		"editorLightBulb.foreground": "#48bb95",
-		"editorBracketHighlight.foreground1": "#ffffff",
-		"editorBracketHighlight.foreground2": "#ffffff",
-		"editorBracketHighlight.foreground3": "#ffffff",
-		"editorBracketHighlight.foreground4": "#fffae0",
-		"editorBracketHighlight.foreground5": "#ffffff",
-		"editorBracketHighlight.foreground6": "#fffae0",
-		"editorBracketHighlight.unexpectedBracket.foreground": "#d92124",
+		"editorBracketHighlight.foreground1": "#ffe2c6",
+		"editorBracketHighlight.foreground2": "#ffe2c6",
+		"editorBracketHighlight.foreground3": "#ffe2c6",
+		"editorBracketHighlight.foreground4": "#ffe2c6",
+		"editorBracketHighlight.foreground5": "#ffe2c6",
+		"editorBracketHighlight.foreground6": "#ffe2c6",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#d4474ade",
 		"editorBracketMatch.background": "#434141",
 		"editorBracketMatch.border": "#5b5f5d00",
 		"editor.foldBackground": "#393b3a",
 		"editorOverviewRuler.background": "#2f3130",
-		"editorError.foreground": "#d92124de",
+		"editorError.foreground": "#585858",
 		"panelTitle.activeBorder": "#448d84",
 		"panelTitle.activeForeground": "#fdefef",
 		"panelTitle.inactiveForeground": "#fcfdef",
@@ -99,7 +99,7 @@
 				"keyword.control.flow",
 			],
 			"settings": {
-				"foreground": "#96e3fc"
+				"foreground": "#c2f0ff"
 			}
 		},
 		{
@@ -108,19 +108,17 @@
 				"support.function.builtin",
 			],
 			"settings": {
-				"foreground": "#faffaf"
+				"foreground": "#f9fdc1"
 			}
 		},
 		{
-			"name": "keyword.operator.assignment",
+			"name": "constant.numeric.dec",
 			"scope": [
 				"keyword.operator.comparison",
 				"constant.numeric.dec",
-				"keyword.operator.assignment",
-				"keyword.operator.arithmetic"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ffe2c6"
 			}
 		},
 		{
@@ -167,7 +165,6 @@
 		{
 			"name": "Keyword, Storage",
 			"scope": [
-				"keyword",
 				"storage.type",
 				"storage.modifier"
 			],
@@ -192,7 +189,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ffffbd"
 			}
 		},
 		{
@@ -216,7 +213,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FFDEBD"
 			}
 		},
 		{
@@ -251,7 +248,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ffdcd1"
+				"foreground": "#ffc996"
 			}
 		},
 		{
@@ -552,7 +549,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ffdcc0"
 			}
 		},
 		{
@@ -741,7 +738,15 @@
 				"foreground": "#EEFFFF"
 			}
 		},
-		
+		{
+			"name": "source.python",
+			"scope": [
+				"source.python"
+			],
+			"settings": {
+				"foreground": "#ffe2c6"
+			}
+		}
 	]
 	
 }

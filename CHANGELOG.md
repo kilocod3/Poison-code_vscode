@@ -1,9 +1,20 @@
-# Change Log
+# Changelog
 
-All notable changes to the "poison-code-theme" extension will be documented in this file.
+## v0.1.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Patch
 
-## [Unreleased]
+- Screenshots added
 
-- Initial release
+## v0.1.2
+
+### Patch
+
+- Changed text highlighting from white to more neutral
+
+## v0.1.3
+
+### Patch
+
+- Color correction: resource, brackets, numbers. Python
+- Plain HTML text
