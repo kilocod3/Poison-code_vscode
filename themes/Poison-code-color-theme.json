@@ -10,6 +10,9 @@
 		"widget.border": "#000000",
 		"widget.shadow": "#222222",
 		"icon.foreground": "#48bb94",
+		//Text colors
+		"textLink.activeForeground": "#48dbc7",
+		"textLink.foreground": "#43cebb",
 		//Button control
 		"button.background": "#4a998e",
 		"button.foreground": "#feffef",
@@ -44,6 +47,7 @@
 		//Editor Groups & Tabs
 		"editorGroup.border": "#262726",
 		"editorGroup.dropBackground": "#994a4a",
+		//Editor colors
 		"editor.background": "#29282a",
 		"editor.foreground": "#ffffff",
 		"editorLineNumber.foreground": "#fffff8",
@@ -53,6 +57,7 @@
 		"editor.inactiveSelectionBackground": "#5c5c5c",
 		"editor.selectionHighlightBorder": "#434343",
 		"editor.wordHighlightBackground": "#434343",
+		"editor.wordHighlightStrongBackground": "#808080f5",
 		"editor.findMatchBackground": "#994a4a",
 		"editor.findMatchHighlightBackground": "#4747479c",
 		"editor.hoverHighlightBackground": "#484848",
@@ -71,36 +76,42 @@
 		"editor.foldBackground": "#393b3a",
 		"editorOverviewRuler.background": "#2f3130",
 		"editorError.foreground": "#585858",
+		//Panel colors
 		"panelTitle.activeBorder": "#448d84",
 		"panelTitle.activeForeground": "#fdefef",
 		"panelTitle.inactiveForeground": "#fcfdef",
 		"panelInput.border": "#448d84",
 		"panelSection.dropBackground": "#448d842f",
+		"panelSectionHeader.foreground": "#43cebb",
+		"panelSection.border": "#458e84",
+		//Status Bar colors
 		"statusBar.background": "#2f3130",
 		"statusBar.foreground": "#fcfdef",
+		"statusBar.noFolderForeground": "#458e84",
+		"statusBarItem.remoteBackground": "#458e84",
+		//Title Bar colors
 		"titleBar.activeForeground": "#fcfdef",
+		//Menu Bar colors
 		"menubar.selectionBackground": "#7a7a7a60",
 		"menubar.selectionForeground": "#fcfdef",
 		"menu.selectionBackground": "#458e84",
+		//Command Center colors
 		"commandCenter.activeBorder": "#4a998e7f",
+		//Extensions colors
 		"extensionButton.prominentForeground": "#fcfdef",
-		"editor.wordHighlightStrongBackground": "#808080f5",
 		"extensionButton.hoverBackground": "#53a89c",
 		"extensionIcon.starForeground": "#43cebb",
 		"extensionIcon.verifiedForeground": "#fff1ec",
 		"extensionIcon.preReleaseForeground": "#4a998e7f",
 		"extensionIcon.sponsorForeground": "#4a998e7f",
+		//Quick picker colors
 		"pickerGroup.foreground": "#fcfdef",
 		"quickInputList.focusBackground": "#458e84",
+		//Integrated Terminal colors
 		"terminal.foreground": "#fefff3",
 		"terminalCursor.foreground": "#458e84",
+		//Debug colors
 		"debugIcon.breakpointForeground": "#458e84",
-		"statusBar.noFolderForeground": "#458e84",
-		"textLink.activeForeground": "#48dbc7",
-		"textLink.foreground": "#43cebb",
-		"panelSectionHeader.foreground": "#43cebb",
-		"panelSection.border": "#458e84",
-		"statusBarItem.remoteBackground": "#458e84",
 	},
 	"tokenColors": [
 		{
